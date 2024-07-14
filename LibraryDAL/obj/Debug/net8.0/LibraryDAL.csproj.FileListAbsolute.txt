@@ -1,0 +1,12 @@
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\bin\Debug\net8.0\LibraryDAL.deps.json
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\bin\Debug\net8.0\LibraryDAL.dll
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\bin\Debug\net8.0\LibraryDAL.pdb
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfoInputs.cache
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfo.cs
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.dll
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\refint\LibraryDAL.dll
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.pdb
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\ref\LibraryDAL.dll
+C:\Users\abuub\RiderProjects\LibraryManagemeentSystem\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.AssemblyReference.cache
